@@ -44,3 +44,5 @@ Course edits are saved in the browser's localStorage. Export JSON periodically t
 ## License
 
 MIT — adapt for your own academic journey.
+
+Here is a demo video - [https://drive.google.com/file/d/1Z_9Lq4crjNg33744dXiDAl7SpjNFa85j/view?usp=sharing]([url](https://drive.google.com/file/d/1Z_9Lq4crjNg33744dXiDAl7SpjNFa85j/view?usp=sharing)) 
